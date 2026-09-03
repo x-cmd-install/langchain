@@ -1,62 +1,64 @@
 about:
-  description: The agent engineering platform.
+  description:
+  |
+    The agent engineering platform.
   license: MIT
   homepage: https://docs.langchain.com/langchain/
-  head: 8330dfe
+  head: 79cab2d
   archived: false
-  latestVersion: langchain==1.4.0a4
-  collectedAt: 2026-09-03T05:10:00Z
+  latestVersion: langchain==1.4.0
+  collectedAt: 2026-09-03T22:38:09Z
 timeline:
   created: 2022-10-17
   lastCommit: 2026-09-03
-  lastRelease: 2026-09-02
+  lastRelease: 2026-09-03
 popularity:
-  star: 145542
+  star: 145593
   watcher: 916
-  fork: 24285
-  release: 1348
+  fork: 24302
+  release: 1350
   contributor: 3983
-  pullRequest: 6867
-  issue: 10126
+  pullRequest: 6879
+  issue: 10134
 language:
-  Python: 13939120
+  Python: 13942108
   Makefile: 63803
   Shell: 20230
   XSLT: 7380
   HTML: 1900
   Dockerfile: 1060
   JavaScript: 157
-totalLine: 14033650
+totalBytes: 14036638
 recent:
   last30d:
     since: 2026-08-04
-    release: 30
-    mergedPR: 190
+    release: 32
+    mergedPR: 192
     openPR: 22
-    closedIssue: 167
-    openIssue: 59
-    commit: 232
+    closedIssue: 174
+    openIssue: 60
+    commit: 235
   last90d:
     since: 2026-06-05
-    release: 86
-    mergedPR: 582
+    release: 88
+    mergedPR: 584
     openPR: 46
-    closedIssue: 381
-    openIssue: 125
-    commit: 767
+    closedIssue: 388
+    openIssue: 126
+    commit: 770
   last180d:
     since: 2026-03-07
     release: 100
-    mergedPR: 1285
+    mergedPR: 1287
     openPR: 49
-    closedIssue: 763
-    openIssue: 244
-    commit: 1483
+    closedIssue: 770
+    openIssue: 245
+    commit: 1486
   last360d:
     since: 2025-09-08
     release: 100
-    mergedPR: 2626
+    mergedPR: 2628
     openPR: 85
-    closedIssue: 1169
-    openIssue: 331
-    commit: 2969
+    closedIssue: 1176
+    openIssue: 332
+    commit: 2972
