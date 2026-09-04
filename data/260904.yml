@@ -1,0 +1,64 @@
+about:
+  description:
+  |
+    The agent engineering platform.
+  license: MIT
+  homepage: https://docs.langchain.com/langchain/
+  head: 79cab2d
+  archived: false
+  latestVersion: langchain==1.4.0
+  collectedAt: 2026-09-04T04:45:07Z
+timeline:
+  created: 2022-10-17
+  lastCommit: 2026-09-03
+  lastRelease: 2026-09-03
+popularity:
+  star: 145606
+  watcher: 916
+  fork: 24304
+  release: 1350
+  contributor: 3983
+  pullRequest: 6880
+  issue: 10134
+language:
+  Python: 13942108
+  Makefile: 63803
+  Shell: 20230
+  XSLT: 7380
+  HTML: 1900
+  Dockerfile: 1060
+  JavaScript: 157
+totalBytes: 14036638
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 32
+    mergedPR: 175
+    openPR: 20
+    closedIssue: 169
+    openIssue: 60
+    commit: 235
+  last90d:
+    since: 2026-06-06
+    release: 86
+    mergedPR: 582
+    openPR: 47
+    closedIssue: 388
+    openIssue: 124
+    commit: 770
+  last180d:
+    since: 2026-03-08
+    release: 100
+    mergedPR: 1278
+    openPR: 50
+    closedIssue: 767
+    openIssue: 245
+    commit: 1486
+  last360d:
+    since: 2025-09-09
+    release: 100
+    mergedPR: 2616
+    openPR: 86
+    closedIssue: 1176
+    openIssue: 332
+    commit: 2972
