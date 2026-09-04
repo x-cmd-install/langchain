@@ -7,13 +7,13 @@ about:
   head: 8215039
   archived: false
   latestVersion: langchain==1.4.0
-  collectedAt: 2026-09-04T20:13:17Z
+  collectedAt: 2026-09-04T20:29:42Z
 timeline:
   created: 2022-10-17
   lastCommit: 2026-09-04
   lastRelease: 2026-09-03
 popularity:
-  star: 145650
+  star: 145646
   watcher: 916
   fork: 24314
   release: 1350
@@ -87,7 +87,7 @@ total:
   commit: 16727
 ---
 path: /home/runner/.x-repo/github.com/langchain-ai/langchain
-collectedAt: 2026-09-04T20:13:39Z
+collectedAt: 2026-09-04T20:30:02Z
 loc:
   Python:
     code: 338008
