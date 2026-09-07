@@ -5,19 +5,19 @@ about:
   head: fa942ae
   archived: false
   latestVersion: "langchain-core==1.6.2"
-  collectedAt: 2026-09-07T05:13:28Z
+  collectedAt: 2026-09-07T19:14:57Z
 timeline:
   created: 2022-10-17
   lastCommit: 2026-09-07
   lastRelease: 2026-09-04
 popularity:
-  star: 145829
+  star: 145878
   watcher: 917
-  fork: 24361
+  fork: 24366
   release: 1351
   contributor: 3988
-  pullRequest: 24273
-  issue: 10163
+  pullRequest: 24281
+  issue: 10166
 language:
   Python: 13965224
   Makefile: 63803
@@ -32,60 +32,60 @@ recent:
     since: 2026-08-08
     release: 31
     mergedPR: 167
-    openPR: 16
+    openPR: 18
     closedIssue: 178
-    openIssue: 65
+    openIssue: 68
     commit: 185
   last60d:
     since: 2026-07-09
     release: 52
     mergedPR: 326
-    openPR: 32
+    openPR: 34
     closedIssue: 292
-    openIssue: 81
+    openIssue: 84
     commit: 402
   last90d:
     since: 2026-06-09
     release: 86
     mergedPR: 582
-    openPR: 46
+    openPR: 48
     closedIssue: 401
-    openIssue: 126
+    openIssue: 129
     commit: 668
   last180d:
     since: 2026-03-11
     release: 100
     mergedPR: 1267
-    openPR: 50
+    openPR: 52
     closedIssue: 772
-    openIssue: 246
+    openIssue: 249
     commit: 1441
   last360d:
     since: 2025-09-12
     release: 100
     mergedPR: 2592
-    openPR: 84
+    openPR: 86
     closedIssue: 1198
-    openIssue: 337
+    openIssue: 340
     commit: 2891
   last720d:
     since: 2024-09-17
     release: 100
     mergedPR: 5527
-    openPR: 86
+    openPR: 88
     closedIssue: 2237
-    openIssue: 364
+    openIssue: 367
     commit: 5397
 total:
   release: 1351
   mergedPR: 17375
-  openPR: 86
+  openPR: 88
   closedIssue: 9799
-  openIssue: 364
+  openIssue: 367
   commit: 16734
 ---
 path: /home/runner/.x-repo/github.com/langchain-ai/langchain
-collectedAt: 2026-09-07T05:14:11Z
+collectedAt: 2026-09-07T19:15:32Z
 loc:
   Python:
     code: 338227
@@ -313,7 +313,7 @@ checks:
       - 'Warn: 26 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:14:12+00:00
+  collectedAt: 2026-09-07T19:15:33+00:00
   platform:
     darwin/arm64:
       name:  null
