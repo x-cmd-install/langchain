@@ -5,18 +5,18 @@ about:
   head: e670c7a
   archived: false
   latestVersion: "langchain-core==1.6.2"
-  collectedAt: 2026-09-08T02:31:43Z
+  collectedAt: 2026-09-08T05:17:56Z
 timeline:
   created: 2022-10-17
   lastCommit: 2026-09-07
   lastRelease: 2026-09-04
 popularity:
-  star: 145891
+  star: 145906
   watcher: 917
-  fork: 24370
+  fork: 24371
   release: 1351
   contributor: 3988
-  pullRequest: 24283
+  pullRequest: 24284
   issue: 10170
 language:
   Python: 13964550
@@ -85,7 +85,7 @@ total:
   commit: 16735
 ---
 path: /home/runner/.x-repo/github.com/langchain-ai/langchain
-collectedAt: 2026-09-08T02:32:20Z
+collectedAt: 2026-09-08T05:18:45Z
 loc:
   Python:
     code: 338205
