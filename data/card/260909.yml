@@ -2,12 +2,12 @@ about:
   description: "The agent engineering platform."
   license: MIT
   homepage: https://docs.langchain.com/langchain/
-  head: 22f3421
+  head: 1611938
   archived: false
   latestVersion: "langchain-openai==1.6.1"
   latestRelease: "langchain-openai==1.6.1"
   latestPrerelease: "langchain==1.4.0a2"
-  collectedAt: 2026-09-09T05:23:01Z
+  collectedAt: 2026-09-09T19:44:31Z
 timeline:
   created: 2022-10-17
   lastCommit: 2026-09-09
@@ -15,86 +15,86 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 2026-08-28
 popularity:
-  star: 145981
+  star: 146018
   watcher: 917
-  fork: 24385
+  fork: 24387
   release: 1352
   contributor: 3988
-  pullRequest: 24301
-  issue: 10190
+  pullRequest: 24316
+  issue: 10200
 language:
-  Python: 13964603
+  Python: 13965099
   Makefile: 63803
   Shell: 20230
   XSLT: 7380
   HTML: 1900
   Dockerfile: 1060
   JavaScript: 157
-totalBytes: 14059133
+totalBytes: 14059629
 recent:
   last30d:
     since: 2026-08-10
     release: 32
-    mergedPR: 165
-    openPR: 17
-    closedIssue: 184
-    openIssue: 73
-    commit: 195
+    mergedPR: 167
+    openPR: 18
+    closedIssue: 189
+    openIssue: 78
+    commit: 199
   last60d:
     since: 2026-07-11
     release: 50
-    mergedPR: 323
-    openPR: 30
-    closedIssue: 303
-    openIssue: 89
-    commit: 412
+    mergedPR: 325
+    openPR: 31
+    closedIssue: 308
+    openIssue: 94
+    commit: 416
   last90d:
     since: 2026-06-11
     release: 76
-    mergedPR: 554
-    openPR: 37
-    closedIssue: 411
-    openIssue: 130
-    commit: 678
+    mergedPR: 556
+    openPR: 38
+    closedIssue: 416
+    openIssue: 135
+    commit: 682
   last180d:
     since: 2026-03-13
     release: 100
-    mergedPR: 1245
-    openPR: 51
-    closedIssue: 777
-    openIssue: 249
-    commit: 1451
+    mergedPR: 1247
+    openPR: 52
+    closedIssue: 782
+    openIssue: 254
+    commit: 1455
   last360d:
     since: 2025-09-14
     release: 100
-    mergedPR: 2593
-    openPR: 85
-    closedIssue: 1211
-    openIssue: 346
-    commit: 2901
+    mergedPR: 2595
+    openPR: 86
+    closedIssue: 1216
+    openIssue: 351
+    commit: 2899
   last720d:
     since: 2024-09-19
     release: 100
-    mergedPR: 5500
-    openPR: 87
-    closedIssue: 2234
-    openIssue: 374
-    commit: 5367
+    mergedPR: 5502
+    openPR: 88
+    closedIssue: 2239
+    openIssue: 379
+    commit: 5369
 total:
   release: 1352
-  mergedPR: 17381
-  openPR: 87
-  closedIssue: 9816
-  openIssue: 374
-  commit: 16740
+  mergedPR: 17383
+  openPR: 88
+  closedIssue: 9821
+  openIssue: 379
+  commit: 16742
 ---
 path: /home/runner/.x-repo/github.com/langchain-ai/langchain
-collectedAt: 2026-09-09T05:23:40Z
+collectedAt: 2026-09-09T19:45:07Z
 loc:
   Python:
-    code: 338196
+    code: 338214
     comments: 13487
-    blanks: 52297
+    blanks: 52300
     files: 2574
   Json:
     code: 5484
@@ -102,9 +102,9 @@ loc:
     blanks: 0
     files: 42
   Toml:
-    code: 2809
+    code: 2811
     comments: 45
-    blanks: 403
+    blanks: 404
     files: 29
   Makefile:
     code: 1125
@@ -167,9 +167,9 @@ loc:
     blanks: 20
     files: 18
 total:
-  code: 352291
+  code: 352311
   comments: 21073
-  blanks: 57016
+  blanks: 57020
   files: 2782
 ---
 date: "2026-09-07"
