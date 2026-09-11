@@ -4,7 +4,7 @@
 
 The agent engineering platform.
 
-![langchain](https://repo.x-cmd.io/langchain.svg)
+![langchain](https://repo.x-cmd.io/langchain.svg?lang=zh)
 
 ## 安装
 
@@ -12,42 +12,13 @@ The agent engineering platform.
 x install langchain
 ```
 
-## 源代码
+## 代码洞察
 
-- **上游仓库**: <https://github.com/langchain-ai/langchain>
-- **官网**: <https://docs.langchain.com/langchain/>
-- **许可证**: MIT
-
-## 发布
-
-- **最新版本**: `langchain-openai==1.6.2` (2026-09-09)
-- **最近提交**: 2026-09-09
-- **Release 含资产**: 2 个
-- **发布时间**: 2026-09-04T21:29:42Z
-
-## 流行度
-
-- **Star**: 146,037 · **Fork**: 24,392 · **开放 issue**: 10,210 · **贡献者**: 3,988
-
-## 累计统计
-
-- **发布数**: 1353 · **已合并 PR**: 17385 · **开放 PR**: 88 · **已关闭 issue**: 9823 · **开放 issue**: 387 · **提交数**: 16744
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 32 | 158 | 18 | 185 | 85 | 203 |
-| 90d | 2026-06-12 | 74 | 536 | 38 | 415 | 142 | 686 |
-| 360d | 2025-09-15 | 100 | 2586 | 86 | 1214 | 359 | 2903 |
-
-## 代码规模
-
-合计: **349,030** 行代码（覆盖前 5 种语言、共 **2679** 个文件）。
+合计: **349,208** 行代码（覆盖前 5 种语言、共 **2679** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 338,214 | 13,487 | 52,300 | 2574 |
+| Python | 338,392 | 13,491 | 52,324 | 2574 |
 | Json | 5,484 | 0 | 0 | 42 |
 | Toml | 2,811 | 45 | 404 | 29 |
 | Makefile | 1,125 | 235 | 379 | 23 |
@@ -63,6 +34,44 @@ x install langchain
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
+## 源代码
+
+- **上游仓库**: <https://github.com/langchain-ai/langchain>
+- **官网**: <https://docs.langchain.com/langchain/>
+- **许可证**: MIT
+
+## 发布
+
+- **最新版本**: `langchain-anthropic==1.7.2` (2026-09-10)
+- **最近提交**: 2026-09-10
+- **Release 含资产**: 2 个
+
+## 流行度
+
+- **Star**: 146,091 · **Fork**: 24,403 · **开放 issue**: 10,223 · **贡献者**: 3,989
+
+## 累计统计
+
+- **发布数**: 1354 · **已合并 PR**: 17390 · **开放 PR**: 88 · **已关闭 issue**: 9831 · **开放 issue**: 392 · **提交数**: 16749
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 30 | 156 | 17 | 187 | 92 | 210 |
+| last60d | 2026-07-13 | 52 | 323 | 29 | 313 | 108 | 427 |
+| 90d | 2026-06-13 | 71 | 532 | 37 | 420 | 146 | 693 |
+| last180d | 2026-03-15 | 100 | 1237 | 52 | 784 | 264 | 1466 |
+| 360d | 2025-09-16 | 100 | 2579 | 86 | 1218 | 364 | 2910 |
+| last720d | 2024-09-21 | 100 | 5487 | 88 | 2239 | 392 | 5328 |
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [langchain_core-1.6.2-py3-none-any.whl](https://github.com/langchain-ai/langchain/releases/download/langchain-core==1.6.2/langchain_core-1.6.2-py3-none-any.whl) | 558.3 KiB | `other` |
+| [langchain_core-1.6.2.tar.gz](https://github.com/langchain-ai/langchain/releases/download/langchain-core==1.6.2/langchain_core-1.6.2.tar.gz) | 980.8 KiB | `native/unknown` |
+
 ## 改进这些数据
 
 langchain 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `langchain` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -72,4 +81,4 @@ langchain 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:46:23Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:07:29Z._
