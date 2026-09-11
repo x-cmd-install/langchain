@@ -7,7 +7,7 @@ about:
   latestVersion: "langchain-anthropic==1.7.2"
   latestRelease: "langchain-anthropic==1.7.2"
   latestPrerelease: "langchain==1.4.0a2"
-  collectedAt: 2026-09-11T00:06:39Z
+  collectedAt: 2026-09-11T05:22:01Z
 timeline:
   created: 2022-10-17
   lastCommit: 2026-09-10
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-10
   lastPrerelease: 2026-08-28
 popularity:
-  star: 146091
-  watcher: 921
-  fork: 24403
+  star: 146097
+  watcher: 920
+  fork: 24405
   release: 1354
   contributor: 3989
-  pullRequest: 24346
-  issue: 10223
+  pullRequest: 24347
+  issue: 10228
 language:
   Python: 13972249
   Makefile: 63803
@@ -36,60 +36,60 @@ recent:
     since: 2026-08-12
     release: 30
     mergedPR: 156
-    openPR: 17
-    closedIssue: 187
-    openIssue: 92
+    openPR: 18
+    closedIssue: 190
+    openIssue: 94
     commit: 210
   last60d:
     since: 2026-07-13
     release: 52
     mergedPR: 323
-    openPR: 29
-    closedIssue: 313
-    openIssue: 108
+    openPR: 30
+    closedIssue: 316
+    openIssue: 110
     commit: 427
   last90d:
     since: 2026-06-13
     release: 71
     mergedPR: 532
-    openPR: 37
-    closedIssue: 420
-    openIssue: 146
+    openPR: 38
+    closedIssue: 423
+    openIssue: 148
     commit: 693
   last180d:
     since: 2026-03-15
     release: 100
     mergedPR: 1237
-    openPR: 52
-    closedIssue: 784
-    openIssue: 264
+    openPR: 53
+    closedIssue: 787
+    openIssue: 266
     commit: 1466
   last360d:
     since: 2025-09-16
     release: 100
     mergedPR: 2579
-    openPR: 86
-    closedIssue: 1218
-    openIssue: 364
+    openPR: 87
+    closedIssue: 1221
+    openIssue: 366
     commit: 2910
   last720d:
     since: 2024-09-21
     release: 100
     mergedPR: 5487
-    openPR: 88
-    closedIssue: 2239
-    openIssue: 392
+    openPR: 89
+    closedIssue: 2242
+    openIssue: 394
     commit: 5328
 total:
   release: 1354
   mergedPR: 17390
-  openPR: 88
-  closedIssue: 9831
-  openIssue: 392
+  openPR: 89
+  closedIssue: 9834
+  openIssue: 394
   commit: 16749
 ---
 path: /home/runner/.x-repo/github.com/langchain-ai/langchain
-collectedAt: 2026-09-11T00:07:20Z
+collectedAt: 2026-09-11T05:23:24Z
 loc:
   Python:
     code: 338392
