@@ -14,11 +14,11 @@ x install langchain
 
 ## 代码洞察
 
-合计: **349,652** 行代码（覆盖前 5 种语言、共 **2679** 个文件）。
+合计: **349,678** 行代码（覆盖前 5 种语言、共 **2679** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 338,836 | 13,492 | 52,329 | 2574 |
+| Python | 338,862 | 13,492 | 52,336 | 2574 |
 | Json | 5,484 | 0 | 0 | 42 |
 | Toml | 2,811 | 45 | 404 | 29 |
 | Makefile | 1,125 | 235 | 379 | 23 |
@@ -26,13 +26,13 @@ x install langchain
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.6 / 10**
+总评分: **5.8 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 4/16 approved changesets -- score normalized to 2
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (3/10) — Found 7/19 approved changesets -- score normalized to 3
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install langchain
 ## 发布
 
 - **最新版本**: `langchain-core==1.6.3` (2026-09-11)
-- **最近提交**: 2026-09-13
+- **最近提交**: 2026-09-14
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 146,263 · **Fork**: 24,441 · **开放 issue**: 10,242 · **贡献者**: 3,989
+- **Star**: 146,348 · **Fork**: 24,452 · **开放 issue**: 10,249 · **贡献者**: 3,989
 
 ## 累计统计
 
-- **发布数**: 1355 · **已合并 PR**: 17394 · **开放 PR**: 92 · **已关闭 issue**: 9843 · **开放 issue**: 399 · **提交数**: 16753
+- **发布数**: 1355 · **已合并 PR**: 17396 · **开放 PR**: 91 · **已关闭 issue**: 9848 · **开放 issue**: 401 · **提交数**: 16755
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 26 | 140 | 20 | 186 | 98 | 144 |
-| last60d | 2026-07-16 | 53 | 319 | 32 | 301 | 111 | 399 |
-| 90d | 2026-06-16 | 70 | 507 | 40 | 423 | 147 | 580 |
-| last180d | 2026-03-18 | 100 | 1210 | 56 | 776 | 264 | 1416 |
-| 360d | 2025-09-19 | 100 | 2564 | 90 | 1220 | 371 | 2867 |
-| last720d | 2024-09-24 | 100 | 5449 | 92 | 2234 | 399 | 5321 |
+| 30d | 2026-08-16 | 26 | 142 | 19 | 190 | 100 | 149 |
+| last60d | 2026-07-17 | 52 | 315 | 31 | 300 | 112 | 404 |
+| 90d | 2026-06-17 | 70 | 502 | 39 | 425 | 145 | 585 |
+| last180d | 2026-03-19 | 100 | 1205 | 55 | 776 | 265 | 1421 |
+| 360d | 2025-09-20 | 100 | 2566 | 89 | 1225 | 373 | 2872 |
+| last720d | 2024-09-25 | 100 | 5431 | 91 | 2229 | 401 | 5309 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ langchain 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260914.yml` · 2026-09-14T05:41:22Z._
+_数据快照: `data/card/260915.yml` · 2026-09-15T05:44:59Z._
