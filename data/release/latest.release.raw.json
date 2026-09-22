@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/langchain-ai/langchain/releases/387225605",
-  "assets_url": "https://api.github.com/repos/langchain-ai/langchain/releases/387225605/assets",
-  "upload_url": "https://uploads.github.com/repos/langchain-ai/langchain/releases/387225605/assets{?name,label}",
-  "html_url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.3",
-  "id": 387225605,
+  "url": "https://api.github.com/repos/langchain-ai/langchain/releases/393092482",
+  "assets_url": "https://api.github.com/repos/langchain-ai/langchain/releases/393092482/assets",
+  "upload_url": "https://uploads.github.com/repos/langchain-ai/langchain/releases/393092482/assets{?name,label}",
+  "html_url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.4",
+  "id": 393092482,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,22 +25,22 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOIPDwls4XFJgF",
-  "tag_name": "langchain-core==1.6.3",
-  "target_commitish": "348c9dc572599947d2d7d33d6a5b8b936e92a1d4",
-  "name": "langchain-core==1.6.3",
+  "node_id": "RE_kwDOIPDwls4Xbh2C",
+  "tag_name": "langchain-core==1.6.4",
+  "target_commitish": "99d0d06621d9f1049c35003b8878776dc9323165",
+  "name": "langchain-core==1.6.4",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-11T17:27:47Z",
-  "updated_at": "2026-09-11T17:38:04Z",
-  "published_at": "2026-09-11T17:38:02Z",
+  "created_at": "2026-09-21T15:42:11Z",
+  "updated_at": "2026-09-21T15:51:24Z",
+  "published_at": "2026-09-21T15:51:23Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/langchain-ai/langchain/releases/assets/557702763",
-      "id": 557702763,
-      "node_id": "RA_kwDOIPDwls4hPd5r",
-      "name": "langchain_core-1.6.3-py3-none-any.whl",
+      "url": "https://api.github.com/repos/langchain-ai/langchain/releases/assets/579348239",
+      "id": 579348239,
+      "node_id": "RA_kwDOIPDwls4iiCcP",
+      "name": "langchain_core-1.6.4-py3-none-any.whl",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -65,18 +65,18 @@
       },
       "content_type": "raw",
       "state": "uploaded",
-      "size": 571753,
-      "digest": "sha256:114fe1868c9ed60606662b9dd0074bf3152cc6b0b1522ba37cbd6b04f55ca77d",
-      "download_count": 41,
-      "created_at": "2026-09-11T17:38:03Z",
-      "updated_at": "2026-09-11T17:38:03Z",
-      "browser_download_url": "https://github.com/langchain-ai/langchain/releases/download/langchain-core%3D%3D1.6.3/langchain_core-1.6.3-py3-none-any.whl"
+      "size": 571970,
+      "digest": "sha256:2f940c83f787676ad4dc651d49d053c7ec34bda5a6afcd224da2863ff53a0b84",
+      "download_count": 2,
+      "created_at": "2026-09-21T15:51:24Z",
+      "updated_at": "2026-09-21T15:51:24Z",
+      "browser_download_url": "https://github.com/langchain-ai/langchain/releases/download/langchain-core%3D%3D1.6.4/langchain_core-1.6.4-py3-none-any.whl"
     },
     {
-      "url": "https://api.github.com/repos/langchain-ai/langchain/releases/assets/557702742",
-      "id": 557702742,
-      "node_id": "RA_kwDOIPDwls4hPd5W",
-      "name": "langchain_core-1.6.3.tar.gz",
+      "url": "https://api.github.com/repos/langchain-ai/langchain/releases/assets/579348205",
+      "id": 579348205,
+      "node_id": "RA_kwDOIPDwls4iiCbt",
+      "name": "langchain_core-1.6.4.tar.gz",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -101,15 +101,15 @@
       },
       "content_type": "raw",
       "state": "uploaded",
-      "size": 1006228,
-      "digest": "sha256:88b430944fbd4d40fa98135d6c873581d497b6f33515d01962337548e918df2f",
-      "download_count": 30,
-      "created_at": "2026-09-11T17:38:02Z",
-      "updated_at": "2026-09-11T17:38:03Z",
-      "browser_download_url": "https://github.com/langchain-ai/langchain/releases/download/langchain-core%3D%3D1.6.3/langchain_core-1.6.3.tar.gz"
+      "size": 1006637,
+      "digest": "sha256:c1caae770d991bb6f2376bad791970bf77bb29abd1f15823fa9ea7dbac080fa0",
+      "download_count": 2,
+      "created_at": "2026-09-21T15:51:24Z",
+      "updated_at": "2026-09-21T15:51:24Z",
+      "browser_download_url": "https://github.com/langchain-ai/langchain/releases/download/langchain-core%3D%3D1.6.4/langchain_core-1.6.4.tar.gz"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/langchain-ai/langchain/tarball/langchain-core==1.6.3",
-  "zipball_url": "https://api.github.com/repos/langchain-ai/langchain/zipball/langchain-core==1.6.3",
-  "body": "Changes since langchain-core==1.6.2\n\nrelease(core): 1.6.3 (#40407)\nfeat(core): Allow model name and provider tracing metadata override based on gateway response (#40406)\ntest(core): cover the deprecated `.text()` access path (#40243)\ndocs(core): remove stale Args/Raises entries from FileCallbackHandler._write and ChatGeneration.set_text (#40211)"
+  "tarball_url": "https://api.github.com/repos/langchain-ai/langchain/tarball/langchain-core==1.6.4",
+  "zipball_url": "https://api.github.com/repos/langchain-ai/langchain/zipball/langchain-core==1.6.4",
+  "body": "Changes since langchain-core==1.6.3\n\nrelease(core): 1.6.4 (#40718)\nchore(core): deprecate chat message history (#40711)\nchore(deps): bump anyio from 4.12.0 to 4.14.2 in /libs/core (#40634)\nchore(deps): bump soupsieve from 2.8.4 to 2.9 in /libs/core (#40574)"
 }
