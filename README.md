@@ -14,14 +14,14 @@ x install langchain
 
 ## Code insight
 
-Total: **355,304** lines of code across **2712** files in the top 5 languages.
+Total: **356,426** lines of code across **2712** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 344,346 | 13,508 | 53,196 | 2605 |
+| Python | 345,459 | 13,523 | 53,324 | 2605 |
 | Json | 5,484 | 0 | 0 | 42 |
-| Toml | 2,904 | 44 | 418 | 30 |
-| Makefile | 1,167 | 235 | 391 | 24 |
+| Toml | 2,914 | 44 | 421 | 30 |
+| Makefile | 1,166 | 235 | 391 | 24 |
 | Yaml | 768 | 0 | 2 | 11 |
 
 ## OpenSSF Scorecard
@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `langchain-openai==1.6.4` (2026-09-22)
+- **Latest**: `langchain-anthropic==1.7.4` (2026-09-23)
 - **Last commit**: 2026-09-23
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 146,902 · **Forks**: 24,574 · **Open issues**: 10,355 · **Contributors**: 3,991
+- **Stars**: 146,958 · **Forks**: 24,587 · **Open issues**: 10,360 · **Contributors**: 3,993
 
 ## Totals (cumulative)
 
-- **Releases**: 1367 · **Merged PRs**: 17477 · **Open PRs**: 99 · **Closed issues**: 9897 · **Open issues**: 458 · **Commits**: 16837
+- **Releases**: 1369 · **Merged PRs**: 17487 · **Open PRs**: 101 · **Closed issues**: 9900 · **Open issues**: 460 · **Commits**: 16847
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 28 | 172 | 21 | 180 | 110 | 204 |
-| last60d | 2026-07-25 | 53 | 359 | 36 | 330 | 152 | 473 |
-| 90d | 2026-06-25 | 76 | 492 | 47 | 452 | 177 | 650 |
-| last180d | 2026-03-27 | 100 | 1229 | 63 | 778 | 294 | 1464 |
-| 360d | 2025-09-28 | 100 | 2578 | 97 | 1264 | 422 | 2926 |
-| last720d | 2024-10-03 | 100 | 5419 | 99 | 2240 | 458 | 5313 |
+| 30d | 2026-08-25 | 30 | 178 | 22 | 173 | 111 | 219 |
+| last60d | 2026-07-26 | 55 | 369 | 38 | 329 | 154 | 488 |
+| 90d | 2026-06-26 | 78 | 493 | 49 | 450 | 175 | 665 |
+| last180d | 2026-03-28 | 100 | 1235 | 65 | 779 | 295 | 1479 |
+| 360d | 2025-09-29 | 100 | 2581 | 99 | 1266 | 424 | 2941 |
+| last720d | 2024-10-04 | 100 | 5410 | 101 | 2239 | 460 | 5311 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for langchain lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T05:44:52Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:17:54Z._
