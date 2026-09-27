@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 147,074 · **Forks**: 24,612 · **Open issues**: 10,376 · **Contributors**: 3,995
+- **Stars**: 147,132 · **Forks**: 24,624 · **Open issues**: 10,378 · **Contributors**: 3,995
 
 ## Totals (cumulative)
 
-- **Releases**: 1372 · **Merged PRs**: 17496 · **Open PRs**: 101 · **Closed issues**: 9911 · **Open issues**: 465 · **Commits**: 16856
+- **Releases**: 1372 · **Merged PRs**: 17496 · **Open PRs**: 101 · **Closed issues**: 9911 · **Open issues**: 467 · **Commits**: 16856
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 32 | 167 | 24 | 171 | 113 | 235 |
-| last60d | 2026-07-28 | 57 | 365 | 41 | 331 | 160 | 504 |
-| 90d | 2026-06-28 | 79 | 502 | 50 | 457 | 180 | 681 |
-| last180d | 2026-03-30 | 100 | 1237 | 65 | 786 | 296 | 1495 |
-| 360d | 2025-10-01 | 100 | 2562 | 99 | 1275 | 428 | 2957 |
-| last720d | 2024-10-06 | 100 | 5416 | 101 | 2244 | 465 | 5306 |
+| 30d | 2026-08-28 | 27 | 167 | 24 | 168 | 114 | 194 |
+| last60d | 2026-07-29 | 55 | 365 | 41 | 330 | 160 | 461 |
+| 90d | 2026-06-29 | 79 | 496 | 50 | 449 | 180 | 639 |
+| last180d | 2026-03-31 | 100 | 1229 | 65 | 778 | 296 | 1445 |
+| 360d | 2025-10-02 | 100 | 2525 | 99 | 1272 | 430 | 2814 |
+| last720d | 2024-10-07 | 100 | 5409 | 101 | 2241 | 467 | 5306 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for langchain lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:28:37Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T06:04:26Z._
