@@ -14,11 +14,11 @@ x install langchain
 
 ## 代码洞察
 
-合计: **358,172** 行代码（覆盖前 5 种语言、共 **2716** 个文件）。
+合计: **358,336** 行代码（覆盖前 5 种语言、共 **2719** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 347,191 | 13,525 | 53,523 | 2609 |
+| Python | 347,355 | 13,527 | 53,597 | 2612 |
 | Json | 5,484 | 0 | 0 | 42 |
 | Toml | 2,928 | 44 | 423 | 30 |
 | Makefile | 1,166 | 235 | 391 | 24 |
@@ -26,13 +26,13 @@ x install langchain
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.8 / 10**
+总评分: **5.2 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 6/25 approved changesets -- score normalized to 2
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (0/10) — Found 0/5 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -42,35 +42,35 @@ x install langchain
 
 ## 发布
 
-- **最新版本**: `langchain-text-splitters==1.1.3` (2026-10-02)
-- **最近提交**: 2026-10-06
+- **最新版本**: `langchain-core==1.6.7` (2026-10-06)
+- **最近提交**: 2026-10-07
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 147,485 · **Fork**: 24,713 · **开放 issue**: 10,448 · **贡献者**: 3,996
+- **Star**: 147,517 · **Fork**: 24,720 · **开放 issue**: 10,446 · **贡献者**: 3,996
 
 ## 累计统计
 
-- **发布数**: 1378 · **已合并 PR**: 17563 · **开放 PR**: 127 · **已关闭 issue**: 9934 · **开放 issue**: 514 · **提交数**: 16922
+- **发布数**: 1379 · **已合并 PR**: 17593 · **开放 PR**: 112 · **已关闭 issue**: 9933 · **开放 issue**: 513 · **提交数**: 16952
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 27 | 185 | 50 | 138 | 137 | 232 |
-| last60d | 2026-08-07 | 59 | 356 | 62 | 314 | 203 | 470 |
-| 90d | 2026-07-08 | 82 | 525 | 76 | 433 | 219 | 676 |
-| last180d | 2026-04-09 | 100 | 1242 | 91 | 753 | 330 | 1490 |
-| 360d | 2025-10-11 | 100 | 2452 | 125 | 1284 | 475 | 2820 |
-| last720d | 2024-10-16 | 100 | 5417 | 127 | 2221 | 514 | 5311 |
+| 30d | 2026-09-07 | 28 | 213 | 34 | 134 | 131 | 262 |
+| last60d | 2026-08-08 | 59 | 385 | 47 | 314 | 203 | 500 |
+| 90d | 2026-07-09 | 80 | 545 | 59 | 430 | 218 | 706 |
+| last180d | 2026-04-10 | 100 | 1264 | 76 | 752 | 327 | 1520 |
+| 360d | 2025-10-12 | 100 | 2481 | 110 | 1285 | 474 | 2850 |
+| last720d | 2024-10-17 | 100 | 5433 | 112 | 2211 | 513 | 5331 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [langchain_core-1.6.6-py3-none-any.whl](https://github.com/langchain-ai/langchain/releases/download/langchain-core==1.6.6/langchain_core-1.6.6-py3-none-any.whl) | 558.7 KiB | `other` |
-| [langchain_core-1.6.6.tar.gz](https://github.com/langchain-ai/langchain/releases/download/langchain-core==1.6.6/langchain_core-1.6.6.tar.gz) | 983.6 KiB | `native/unknown` |
+| [langchain_core-1.6.7-py3-none-any.whl](https://github.com/langchain-ai/langchain/releases/download/langchain-core==1.6.7/langchain_core-1.6.7-py3-none-any.whl) | 559.3 KiB | `other` |
+| [langchain_core-1.6.7.tar.gz](https://github.com/langchain-ai/langchain/releases/download/langchain-core==1.6.7/langchain_core-1.6.7.tar.gz) | 985.9 KiB | `native/unknown` |
 
 ## 改进这些数据
 
@@ -81,4 +81,4 @@ langchain 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261006.yml` · 2026-10-06T07:05:43Z._
+_数据快照: `data/card/261007.yml` · 2026-10-07T06:39:40Z._
