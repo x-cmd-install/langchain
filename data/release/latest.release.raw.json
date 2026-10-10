@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 572951,
       "digest": "sha256:2bacea12270fd4cfdeeefdc5977e7e8b3c30814c509534d1ef43f4e5b7d3f657",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-10-08T20:11:34Z",
       "updated_at": "2026-10-08T20:11:34Z",
       "browser_download_url": "https://github.com/langchain-ai/langchain/releases/download/langchain-core%3D%3D1.6.9/langchain_core-1.6.9-py3-none-any.whl"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1010051,
       "digest": "sha256:34394228603e6f0bd24ce4e773b58b7d160e1b8cf489ecb350cf41f5366f5e92",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-10-08T20:11:33Z",
       "updated_at": "2026-10-08T20:11:33Z",
       "browser_download_url": "https://github.com/langchain-ai/langchain/releases/download/langchain-core%3D%3D1.6.9/langchain_core-1.6.9.tar.gz"
