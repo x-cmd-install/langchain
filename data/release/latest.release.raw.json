@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 574676,
       "digest": "sha256:e82b24d7ac51fc74874baa29d6b3c0b8234880d4f3d897f8ff57fb80dfd9b07d",
-      "download_count": 29,
+      "download_count": 31,
       "created_at": "2026-10-22T17:47:40Z",
       "updated_at": "2026-10-22T17:47:40Z",
       "browser_download_url": "https://github.com/langchain-ai/langchain/releases/download/langchain-core%3D%3D1.7.0/langchain_core-1.7.0-py3-none-any.whl"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1020046,
       "digest": "sha256:c34e53358b103cd73f43c63f5f46f9b5c6c3467efdffcdf134892b89020494e4",
-      "download_count": 23,
+      "download_count": 24,
       "created_at": "2026-10-22T17:47:39Z",
       "updated_at": "2026-10-22T17:47:39Z",
       "browser_download_url": "https://github.com/langchain-ai/langchain/releases/download/langchain-core%3D%3D1.7.0/langchain_core-1.7.0.tar.gz"
@@ -111,5 +111,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/langchain-ai/langchain/tarball/langchain-core==1.7.0",
   "zipball_url": "https://api.github.com/repos/langchain-ai/langchain/zipball/langchain-core==1.7.0",
-  "body": "Changes since langchain-core==1.6.13\n\nrelease(core): 1.7.0 (#41418)\nfeat(core): emit `tool-call-delta` for streamed tool-call args (#41257)\n\n## Notes\n\n- Tool-call args now stream as `tool-call-delta` slices instead of `block-delta` snapshots of the args so far. If you read raw stream events and their `block-delta` args mid-stream, read `tool-call-delta` instead. `.tool_calls.get()` and `.output` are unchanged. To keep snapshots, pin `langchain-core<1.7`.\n- Since 1.6.13, iterating `ChatModelStream.tool_calls` yields each call's new args slice, not a snapshot of the args so far."
+  "body": "Changes since langchain-core==1.6.13\n\nrelease(core): 1.7.0 (#41418)\nfeat(core): emit `tool-call-delta` for streamed tool-call args (#41257)\n\n## Notes\n\n- Tool-call args now stream as `tool-call-delta` slices instead of `block-delta` snapshots of the args so far. If you read raw stream events and their `block-delta` args mid-stream, read `tool-call-delta` instead. `.tool_calls.get()` and `.output` are unchanged. To keep snapshots, pin `langchain-core<1.7`.\n- Since 1.6.13, iterating `ChatModelStream.tool_calls` yields each call's new args slice, not a snapshot of the args so far.",
+  "reactions": {
+    "url": "https://api.github.com/repos/langchain-ai/langchain/releases/421023108/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
