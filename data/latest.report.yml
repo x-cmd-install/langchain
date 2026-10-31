@@ -2,97 +2,97 @@ about:
   description: "The agent engineering platform."
   license: MIT
   homepage: https://docs.langchain.com/langchain/
-  head: 864754c
+  head: 5b0aeb7
   archived: false
   latestVersion: "langchain-core==1.7.3"
   latestRelease: "langchain-core==1.7.3"
   latestPrerelease: "langchain==1.4.0a2"
-  collectedAt: 2026-10-30T06:24:42Z
+  collectedAt: 2026-10-31T06:12:03Z
 timeline:
   created: 2022-10-17
-  lastCommit: 2026-10-29
+  lastCommit: 2026-10-30
   lastVersion: 2026-10-29
   lastRelease: 2026-10-29
   lastPrerelease: 2026-08-28
 popularity:
-  star: 148696
+  star: 148751
   watcher: 920
-  fork: 24979
+  fork: 24997
   release: 1402
-  contributor: 4003
-  pullRequest: 25118
-  issue: 10573
+  contributor: 4002
+  pullRequest: 25141
+  issue: 10575
 language:
-  Python: 14633101
+  Python: 14633126
   Makefile: 65902
   Shell: 20585
   XSLT: 7380
   HTML: 1900
   Dockerfile: 1060
   JavaScript: 157
-totalBytes: 14730085
+totalBytes: 14730110
 recent:
   last30d:
-    since: 2026-09-30
-    release: 26
-    mergedPR: 227
-    openPR: 28
-    closedIssue: 94
-    openIssue: 92
-    commit: 203
+    since: 2026-10-01
+    release: 25
+    mergedPR: 192
+    openPR: 35
+    closedIssue: 91
+    openIssue: 90
+    commit: 207
   last60d:
-    since: 2026-08-31
+    since: 2026-09-01
     release: 56
-    mergedPR: 408
-    openPR: 49
-    closedIssue: 257
+    mergedPR: 384
+    openPR: 57
+    closedIssue: 252
     openIssue: 205
-    commit: 483
+    commit: 487
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 84
-    mergedPR: 593
-    openPR: 67
-    closedIssue: 417
-    openIssue: 259
-    commit: 739
+    mergedPR: 586
+    openPR: 75
+    closedIssue: 412
+    openIssue: 261
+    commit: 743
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 100
-    mergedPR: 1235
-    openPR: 87
-    closedIssue: 760
-    openIssue: 354
-    commit: 1490
+    mergedPR: 1237
+    openPR: 95
+    closedIssue: 751
+    openIssue: 356
+    commit: 1494
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 100
-    mergedPR: 2416
-    openPR: 122
-    closedIssue: 1297
-    openIssue: 520
-    commit: 2817
+    mergedPR: 2410
+    openPR: 130
+    closedIssue: 1292
+    openIssue: 522
+    commit: 2821
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 100
-    mergedPR: 5348
-    openPR: 124
-    closedIssue: 2185
-    openIssue: 567
-    commit: 5262
+    mergedPR: 5349
+    openPR: 132
+    closedIssue: 2183
+    openIssue: 569
+    commit: 5261
 total:
   release: 1402
-  mergedPR: 17740
-  openPR: 124
+  mergedPR: 17742
+  openPR: 132
   closedIssue: 10006
-  openIssue: 567
-  commit: 17100
+  openIssue: 569
+  commit: 17102
 ---
 path: /home/runner/.x-repo/github.com/langchain-ai/langchain
-collectedAt: 2026-10-30T06:25:20Z
+collectedAt: 2026-10-31T06:12:40Z
 loc:
   Python:
-    code: 354579
+    code: 354580
     comments: 13596
     blanks: 54797
     files: 2634
@@ -158,8 +158,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 14879
-    blanks: 7069
+    comments: 15242
+    blanks: 7277
     files: 97
   Text:
     code: 0
@@ -167,9 +167,9 @@ loc:
     blanks: 20
     files: 18
 total:
-  code: 374367
-  comments: 30260
-  blanks: 64298
+  code: 374756
+  comments: 30696
+  blanks: 64576
   files: 2889
 ---
 date: "2026-10-26"
@@ -318,4 +318,4 @@ checks:
     details:
       - 'Info: all commits (30) are checked with a SAST tool'
 ---
-{"id":428385722,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOIPDwls4ZiKW6","tag_name":"langchain-core==1.7.3","target_commitish":"864754c5e293fba981302408fa3e2cf2f5f2d889","name":"langchain-core==1.7.3","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-29T20:46:26Z","updated_at":"2026-10-29T20:56:14Z","published_at":"2026-10-29T20:56:12Z","assets":[{"id":689882853,"node_id":"RA_kwDOIPDwls4pHsbl","name":"langchain_core-1.7.3-py3-none-any.whl","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":577074,"digest":"sha256:460c214bf31495d7b7e0a879e408dbfda677fd53fd879da786c1b966a4f6bff6","download_count":5,"created_at":"2026-10-29T20:56:14Z","updated_at":"2026-10-29T20:56:14Z"},{"id":689882834,"node_id":"RA_kwDOIPDwls4pHsbS","name":"langchain_core-1.7.3.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":1029116,"digest":"sha256:77f70b81e238c981bfd8405840b03fdf143735ac93c0729c2bdb39d6f0648024","download_count":5,"created_at":"2026-10-29T20:56:13Z","updated_at":"2026-10-29T20:56:13Z"}],"body":"Changes since langchain-core==1.7.2\n\nrelease(core): 1.7.3 (#41564)"}
+{"id":428385722,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOIPDwls4ZiKW6","tag_name":"langchain-core==1.7.3","target_commitish":"864754c5e293fba981302408fa3e2cf2f5f2d889","name":"langchain-core==1.7.3","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-29T20:46:26Z","updated_at":"2026-10-29T20:56:14Z","published_at":"2026-10-29T20:56:12Z","assets":[{"id":689882853,"node_id":"RA_kwDOIPDwls4pHsbl","name":"langchain_core-1.7.3-py3-none-any.whl","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":577074,"digest":"sha256:460c214bf31495d7b7e0a879e408dbfda677fd53fd879da786c1b966a4f6bff6","download_count":20,"created_at":"2026-10-29T20:56:14Z","updated_at":"2026-10-29T20:56:14Z"},{"id":689882834,"node_id":"RA_kwDOIPDwls4pHsbS","name":"langchain_core-1.7.3.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":1029116,"digest":"sha256:77f70b81e238c981bfd8405840b03fdf143735ac93c0729c2bdb39d6f0648024","download_count":23,"created_at":"2026-10-29T20:56:13Z","updated_at":"2026-10-29T20:56:13Z"}],"body":"Changes since langchain-core==1.7.2\n\nrelease(core): 1.7.3 (#41564)"}
