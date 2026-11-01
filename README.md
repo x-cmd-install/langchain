@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `langchain-core==1.7.3` (2026-10-29)
-- **Last commit**: 2026-10-30
+- **Last commit**: 2026-10-31
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 148,751 · **Forks**: 24,997 · **Open issues**: 10,575 · **Contributors**: 4,002
+- **Stars**: 148,796 · **Forks**: 25,009 · **Open issues**: 10,584 · **Contributors**: 4,001
 
 ## Totals (cumulative)
 
-- **Releases**: 1402 · **Merged PRs**: 17742 · **Open PRs**: 132 · **Closed issues**: 10006 · **Open issues**: 569 · **Commits**: 17102
+- **Releases**: 1402 · **Merged PRs**: 17743 · **Open PRs**: 133 · **Closed issues**: 10009 · **Open issues**: 575 · **Commits**: 17103
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 25 | 192 | 35 | 91 | 90 | 207 |
-| last60d | 2026-09-01 | 56 | 384 | 57 | 252 | 205 | 487 |
-| 90d | 2026-08-02 | 84 | 586 | 75 | 412 | 261 | 743 |
-| last180d | 2026-05-04 | 100 | 1237 | 95 | 751 | 356 | 1494 |
-| 360d | 2025-11-05 | 100 | 2410 | 130 | 1292 | 522 | 2821 |
-| last720d | 2024-11-10 | 100 | 5349 | 132 | 2183 | 569 | 5261 |
+| 30d | 2026-10-02 | 25 | 187 | 33 | 90 | 93 | 144 |
+| last60d | 2026-09-02 | 55 | 381 | 57 | 254 | 209 | 436 |
+| 90d | 2026-08-03 | 84 | 585 | 76 | 412 | 266 | 674 |
+| last180d | 2026-05-05 | 100 | 1214 | 96 | 752 | 361 | 1442 |
+| 360d | 2025-11-06 | 100 | 2409 | 131 | 1290 | 527 | 2757 |
+| last720d | 2024-11-11 | 100 | 5345 | 133 | 2179 | 575 | 5262 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for langchain lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:12:47Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:41:36Z._
