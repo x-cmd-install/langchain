@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 577184,
       "digest": "sha256:20963807aa074366a3820a5d980399009ac05e17b77105c1e847db3ea3b4829f",
-      "download_count": 8,
+      "download_count": 12,
       "created_at": "2026-11-02T15:31:48Z",
       "updated_at": "2026-11-02T15:31:49Z",
       "browser_download_url": "https://github.com/langchain-ai/langchain/releases/download/langchain-core%3D%3D1.7.4/langchain_core-1.7.4-py3-none-any.whl"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1029531,
       "digest": "sha256:a9b286e12d782dfc1eb17bdbf4228e0f71e7caa6e5d26375eb9ab6723baaf613",
-      "download_count": 5,
+      "download_count": 13,
       "created_at": "2026-11-02T15:31:48Z",
       "updated_at": "2026-11-02T15:31:48Z",
       "browser_download_url": "https://github.com/langchain-ai/langchain/releases/download/langchain-core%3D%3D1.7.4/langchain_core-1.7.4.tar.gz"
