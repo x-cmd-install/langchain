@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/langchain-ai/langchain/releases/434616524",
-  "assets_url": "https://api.github.com/repos/langchain-ai/langchain/releases/434616524/assets",
-  "upload_url": "https://uploads.github.com/repos/langchain-ai/langchain/releases/434616524/assets{?name,label}",
-  "html_url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.7.6",
-  "id": 434616524,
+  "url": "https://api.github.com/repos/langchain-ai/langchain/releases/439934875",
+  "assets_url": "https://api.github.com/repos/langchain-ai/langchain/releases/439934875/assets",
+  "upload_url": "https://uploads.github.com/repos/langchain-ai/langchain/releases/439934875/assets{?name,label}",
+  "html_url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.7.7",
+  "id": 439934875,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,22 +25,22 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOIPDwls4Z57jM",
-  "tag_name": "langchain-core==1.7.6",
-  "target_commitish": "b4aa7e7d00c452251720ce30b8bc2c41ca44e1f5",
-  "name": "langchain-core==1.7.6",
+  "node_id": "RE_kwDOIPDwls4aON-b",
+  "tag_name": "langchain-core==1.7.7",
+  "target_commitish": "1a41b51b0295d7cc6df45cdede199b4a34649b1d",
+  "name": "langchain-core==1.7.7",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-05T00:12:54Z",
-  "updated_at": "2026-11-05T00:22:14Z",
-  "published_at": "2026-11-05T00:22:12Z",
+  "created_at": "2026-11-10T03:57:34Z",
+  "updated_at": "2026-11-10T04:08:29Z",
+  "published_at": "2026-11-10T04:08:27Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/langchain-ai/langchain/releases/assets/711446024",
-      "id": 711446024,
-      "node_id": "RA_kwDOIPDwls4qZ84I",
-      "name": "langchain_core-1.7.6-py3-none-any.whl",
+      "url": "https://api.github.com/repos/langchain-ai/langchain/releases/assets/730046589",
+      "id": 730046589,
+      "node_id": "RA_kwDOIPDwls4rg6B9",
+      "name": "langchain_core-1.7.7-py3-none-any.whl",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -65,18 +65,18 @@
       },
       "content_type": "raw",
       "state": "uploaded",
-      "size": 580547,
-      "digest": "sha256:f61908be526fbeb5da8cc1ffd9d24bce3b50cf45b3a2f1737c1a7a2958046ce6",
-      "download_count": 16,
-      "created_at": "2026-11-05T00:22:14Z",
-      "updated_at": "2026-11-05T00:22:14Z",
-      "browser_download_url": "https://github.com/langchain-ai/langchain/releases/download/langchain-core%3D%3D1.7.6/langchain_core-1.7.6-py3-none-any.whl"
+      "size": 580684,
+      "digest": "sha256:d69535f817e9ea949dabc85079dccc28b0cde04a579ec5c2273be2f7b09b859c",
+      "download_count": 5,
+      "created_at": "2026-11-10T04:08:29Z",
+      "updated_at": "2026-11-10T04:08:29Z",
+      "browser_download_url": "https://github.com/langchain-ai/langchain/releases/download/langchain-core%3D%3D1.7.7/langchain_core-1.7.7-py3-none-any.whl"
     },
     {
-      "url": "https://api.github.com/repos/langchain-ai/langchain/releases/assets/711445958",
-      "id": 711445958,
-      "node_id": "RA_kwDOIPDwls4qZ83G",
-      "name": "langchain_core-1.7.6.tar.gz",
+      "url": "https://api.github.com/repos/langchain-ai/langchain/releases/assets/730046549",
+      "id": 730046549,
+      "node_id": "RA_kwDOIPDwls4rg6BV",
+      "name": "langchain_core-1.7.7.tar.gz",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -101,15 +101,15 @@
       },
       "content_type": "raw",
       "state": "uploaded",
-      "size": 1037637,
-      "digest": "sha256:0833781e3a8e6fe83073c8412c21180a0545d5ccdf3437889951caf9589ece6c",
-      "download_count": 15,
-      "created_at": "2026-11-05T00:22:12Z",
-      "updated_at": "2026-11-05T00:22:13Z",
-      "browser_download_url": "https://github.com/langchain-ai/langchain/releases/download/langchain-core%3D%3D1.7.6/langchain_core-1.7.6.tar.gz"
+      "size": 1041952,
+      "digest": "sha256:acc4205b5617f36cc0495ee77af7b3eedf8714941c7c14a40220be52770d4536",
+      "download_count": 4,
+      "created_at": "2026-11-10T04:08:28Z",
+      "updated_at": "2026-11-10T04:08:29Z",
+      "browser_download_url": "https://github.com/langchain-ai/langchain/releases/download/langchain-core%3D%3D1.7.7/langchain_core-1.7.7.tar.gz"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/langchain-ai/langchain/tarball/langchain-core==1.7.6",
-  "zipball_url": "https://api.github.com/repos/langchain-ai/langchain/zipball/langchain-core==1.7.6",
-  "body": "Changes since langchain-core==1.7.5\n\nrelease(core): 1.7.6 (#41698)\nperf(core): merge streamed `AIMessageChunk`s once when accumulating runnable streams (#41697)\nperf(core): stop `parse_partial_json` from retrying one character at a time (#41467)"
+  "tarball_url": "https://api.github.com/repos/langchain-ai/langchain/tarball/langchain-core==1.7.7",
+  "zipball_url": "https://api.github.com/repos/langchain-ai/langchain/zipball/langchain-core==1.7.7",
+  "body": "Changes since langchain-core==1.7.6\n\nrelease(core): 1.7.7 (#41776)\nfix(core): cap nesting depth in `load()` (#41742)\nchore(deps): patch newer-python security lock resolutions (#41585)"
 }
