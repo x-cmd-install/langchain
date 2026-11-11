@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1041952,
       "digest": "sha256:acc4205b5617f36cc0495ee77af7b3eedf8714941c7c14a40220be52770d4536",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-11-10T04:08:28Z",
       "updated_at": "2026-11-10T04:08:29Z",
       "browser_download_url": "https://github.com/langchain-ai/langchain/releases/download/langchain-core%3D%3D1.7.7/langchain_core-1.7.7.tar.gz"
