@@ -14,13 +14,13 @@ x install langchain
 
 ## Code insight
 
-Total: **368,010** lines of code across **2749** files in the top 5 languages.
+Total: **369,289** lines of code across **2760** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 356,878 | 13,628 | 55,261 | 2642 |
+| Python | 358,160 | 13,615 | 55,549 | 2653 |
 | Json | 5,484 | 0 | 0 | 42 |
-| Toml | 3,079 | 57 | 436 | 30 |
+| Toml | 3,076 | 57 | 436 | 30 |
 | Makefile | 1,166 | 235 | 391 | 24 |
 | Yaml | 768 | 0 | 2 | 11 |
 
@@ -42,35 +42,35 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `langchain==1.4.10` (2026-11-10)
-- **Last commit**: 2026-11-10
+- **Latest**: `langchain-typesafe==0.1.0` (2026-11-11)
+- **Last commit**: 2026-11-11
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 149,340 · **Forks**: 25,103 · **Open issues**: 10,627 · **Contributors**: 4,002
+- **Stars**: 149,390 · **Forks**: 25,112 · **Open issues**: 10,636 · **Contributors**: 4,002
 
 ## Totals (cumulative)
 
-- **Releases**: 1417 · **Merged PRs**: 17803 · **Open PRs**: 142 · **Closed issues**: 10033 · **Open issues**: 594 · **Commits**: 17165
+- **Releases**: 1420 · **Merged PRs**: 17813 · **Open PRs**: 135 · **Closed issues**: 10038 · **Open issues**: 598 · **Commits**: 17175
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 32 | 189 | 37 | 78 | 84 | 210 |
-| last60d | 2026-09-12 | 62 | 410 | 61 | 204 | 192 | 493 |
-| 90d | 2026-08-13 | 93 | 566 | 77 | 390 | 280 | 712 |
-| last180d | 2026-05-15 | 100 | 1173 | 105 | 740 | 369 | 1465 |
-| 360d | 2025-11-16 | 100 | 2416 | 139 | 1291 | 540 | 2808 |
-| last720d | 2024-11-21 | 100 | 5281 | 142 | 2169 | 594 | 5226 |
+| 30d | 2026-10-13 | 31 | 198 | 32 | 80 | 86 | 223 |
+| last60d | 2026-09-13 | 65 | 420 | 54 | 208 | 194 | 506 |
+| 90d | 2026-08-14 | 94 | 566 | 69 | 392 | 284 | 725 |
+| last180d | 2026-05-16 | 100 | 1179 | 98 | 742 | 373 | 1478 |
+| 360d | 2025-11-17 | 100 | 2423 | 132 | 1294 | 544 | 2821 |
+| last720d | 2024-11-22 | 100 | 5276 | 135 | 2169 | 598 | 5222 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [langchain_core-1.7.7-py3-none-any.whl](https://github.com/langchain-ai/langchain/releases/download/langchain-core==1.7.7/langchain_core-1.7.7-py3-none-any.whl) | 567.1 KiB | `other` |
-| [langchain_core-1.7.7.tar.gz](https://github.com/langchain-ai/langchain/releases/download/langchain-core==1.7.7/langchain_core-1.7.7.tar.gz) | 1017.5 KiB | `native/unknown` |
+| [langchain_core-1.8.0-py3-none-any.whl](https://github.com/langchain-ai/langchain/releases/download/langchain-core==1.8.0/langchain_core-1.8.0-py3-none-any.whl) | 573.3 KiB | `other` |
+| [langchain_core-1.8.0.tar.gz](https://github.com/langchain-ai/langchain/releases/download/langchain-core==1.8.0/langchain_core-1.8.0.tar.gz) | 993.1 KiB | `native/unknown` |
 
 ## Improve this data
 
@@ -81,4 +81,4 @@ Install metadata for langchain lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:21:07Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:03:59Z._
