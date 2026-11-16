@@ -14,11 +14,11 @@ x install langchain
 
 ## 代码洞察
 
-合计: **371,013** 行代码（覆盖前 5 种语言、共 **2764** 个文件）。
+合计: **371,242** 行代码（覆盖前 5 种语言、共 **2764** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 359,907 | 13,615 | 55,810 | 2657 |
+| Python | 360,136 | 13,613 | 55,858 | 2657 |
 | Json | 5,484 | 0 | 0 | 42 |
 | Toml | 3,053 | 56 | 436 | 30 |
 | Makefile | 1,166 | 235 | 391 | 24 |
@@ -42,35 +42,35 @@ x install langchain
 
 ## 发布
 
-- **最新版本**: `langchain-openai==1.8.0` (2026-11-13)
-- **最近提交**: 2026-11-14
+- **最新版本**: `langchain-mistralai==1.2.0` (2026-11-15)
+- **最近提交**: 2026-11-15
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 149,533 · **Fork**: 25,133 · **开放 issue**: 10,650 · **贡献者**: 4,002
+- **Star**: 149,609 · **Fork**: 25,144 · **开放 issue**: 10,658 · **贡献者**: 4,002
 
 ## 累计统计
 
-- **发布数**: 1421 · **已合并 PR**: 17838 · **开放 PR**: 134 · **已关闭 issue**: 10042 · **开放 issue**: 608 · **提交数**: 17201
+- **发布数**: 1426 · **已合并 PR**: 17848 · **开放 PR**: 135 · **已关闭 issue**: 10049 · **开放 issue**: 609 · **提交数**: 17211
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 29 | 210 | 30 | 78 | 87 | 214 |
-| last60d | 2026-09-16 | 66 | 438 | 54 | 195 | 194 | 436 |
-| 90d | 2026-08-17 | 92 | 579 | 68 | 387 | 289 | 679 |
-| last180d | 2026-05-19 | 100 | 1153 | 98 | 731 | 382 | 1448 |
-| 360d | 2025-11-20 | 100 | 2424 | 131 | 1285 | 552 | 2824 |
-| last720d | 2024-11-25 | 100 | 5284 | 134 | 2170 | 608 | 5224 |
+| 30d | 2026-10-17 | 33 | 218 | 31 | 82 | 85 | 228 |
+| last60d | 2026-09-17 | 70 | 434 | 50 | 202 | 194 | 450 |
+| 90d | 2026-08-18 | 96 | 580 | 68 | 384 | 289 | 693 |
+| last180d | 2026-05-20 | 100 | 1159 | 99 | 733 | 383 | 1462 |
+| 360d | 2025-11-21 | 100 | 2431 | 132 | 1287 | 553 | 2838 |
+| last720d | 2024-11-26 | 100 | 5283 | 135 | 2171 | 609 | 5229 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [langchain_core-1.8.0-py3-none-any.whl](https://github.com/langchain-ai/langchain/releases/download/langchain-core==1.8.0/langchain_core-1.8.0-py3-none-any.whl) | 573.3 KiB | `other` |
-| [langchain_core-1.8.0.tar.gz](https://github.com/langchain-ai/langchain/releases/download/langchain-core==1.8.0/langchain_core-1.8.0.tar.gz) | 993.1 KiB | `native/unknown` |
+| [langchain_core-1.8.1-py3-none-any.whl](https://github.com/langchain-ai/langchain/releases/download/langchain-core==1.8.1/langchain_core-1.8.1-py3-none-any.whl) | 574.3 KiB | `other` |
+| [langchain_core-1.8.1.tar.gz](https://github.com/langchain-ai/langchain/releases/download/langchain-core==1.8.1/langchain_core-1.8.1.tar.gz) | 995.1 KiB | `native/unknown` |
 
 ## 改进这些数据
 
@@ -81,4 +81,4 @@ langchain 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261115.yml` · 2026-11-15T07:19:48Z._
+_数据快照: `data/card/261116.yml` · 2026-11-16T07:35:20Z._
