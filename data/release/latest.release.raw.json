@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/langchain-ai/langchain/releases/441865647",
-  "assets_url": "https://api.github.com/repos/langchain-ai/langchain/releases/441865647/assets",
-  "upload_url": "https://uploads.github.com/repos/langchain-ai/langchain/releases/441865647/assets{?name,label}",
-  "html_url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.8.0",
-  "id": 441865647,
+  "url": "https://api.github.com/repos/langchain-ai/langchain/releases/446136297",
+  "assets_url": "https://api.github.com/repos/langchain-ai/langchain/releases/446136297/assets",
+  "upload_url": "https://uploads.github.com/repos/langchain-ai/langchain/releases/446136297/assets{?name,label}",
+  "html_url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.8.1",
+  "id": 446136297,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,22 +25,22 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOIPDwls4aVlWv",
-  "tag_name": "langchain-core==1.8.0",
-  "target_commitish": "a4b4a7b9a6d8b5eb2352e26e110f1b7beffc6f62",
-  "name": "langchain-core==1.8.0",
+  "node_id": "RE_kwDOIPDwls4al3_p",
+  "tag_name": "langchain-core==1.8.1",
+  "target_commitish": "ea17e48f0a4336c920394fd029de99f1568b4c38",
+  "name": "langchain-core==1.8.1",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-11T15:13:30Z",
-  "updated_at": "2026-11-11T15:22:09Z",
-  "published_at": "2026-11-11T15:22:07Z",
+  "created_at": "2026-11-14T00:43:30Z",
+  "updated_at": "2026-11-15T14:57:13Z",
+  "published_at": "2026-11-15T14:57:11Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/langchain-ai/langchain/releases/assets/735949523",
-      "id": 735949523,
-      "node_id": "RA_kwDOIPDwls4r3bLT",
-      "name": "langchain_core-1.8.0-py3-none-any.whl",
+      "url": "https://api.github.com/repos/langchain-ai/langchain/releases/assets/751337711",
+      "id": 751337711,
+      "node_id": "RA_kwDOIPDwls4syIDv",
+      "name": "langchain_core-1.8.1-py3-none-any.whl",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -65,18 +65,18 @@
       },
       "content_type": "raw",
       "state": "uploaded",
-      "size": 587077,
-      "digest": "sha256:89732f9e7d311de9913ba22caf921c72520145a829f05ec1d9c85013e904213c",
-      "download_count": 15,
-      "created_at": "2026-11-11T15:22:09Z",
-      "updated_at": "2026-11-11T15:22:09Z",
-      "browser_download_url": "https://github.com/langchain-ai/langchain/releases/download/langchain-core%3D%3D1.8.0/langchain_core-1.8.0-py3-none-any.whl"
+      "size": 588127,
+      "digest": "sha256:e093de87371e648af23517f1e98cefc316f8be7c72a137b0e0f94d3e8e8cc421",
+      "download_count": 23,
+      "created_at": "2026-11-15T14:57:12Z",
+      "updated_at": "2026-11-15T14:57:13Z",
+      "browser_download_url": "https://github.com/langchain-ai/langchain/releases/download/langchain-core%3D%3D1.8.1/langchain_core-1.8.1-py3-none-any.whl"
     },
     {
-      "url": "https://api.github.com/repos/langchain-ai/langchain/releases/assets/735949473",
-      "id": 735949473,
-      "node_id": "RA_kwDOIPDwls4r3bKh",
-      "name": "langchain_core-1.8.0.tar.gz",
+      "url": "https://api.github.com/repos/langchain-ai/langchain/releases/assets/751337679",
+      "id": 751337679,
+      "node_id": "RA_kwDOIPDwls4syIDP",
+      "name": "langchain_core-1.8.1.tar.gz",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -101,15 +101,15 @@
       },
       "content_type": "raw",
       "state": "uploaded",
-      "size": 1016937,
-      "digest": "sha256:8c571299ae83acec89599cbbb6890018f54225da336a6e315c9e882dd5da6502",
-      "download_count": 17,
-      "created_at": "2026-11-11T15:22:08Z",
-      "updated_at": "2026-11-11T15:22:09Z",
-      "browser_download_url": "https://github.com/langchain-ai/langchain/releases/download/langchain-core%3D%3D1.8.0/langchain_core-1.8.0.tar.gz"
+      "size": 1019016,
+      "digest": "sha256:778b9bf1d18d4b7a716311defa230db190006ef75fe175930e00012d82df603b",
+      "download_count": 5,
+      "created_at": "2026-11-15T14:57:12Z",
+      "updated_at": "2026-11-15T14:57:12Z",
+      "browser_download_url": "https://github.com/langchain-ai/langchain/releases/download/langchain-core%3D%3D1.8.1/langchain_core-1.8.1.tar.gz"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/langchain-ai/langchain/tarball/langchain-core==1.8.0",
-  "zipball_url": "https://api.github.com/repos/langchain-ai/langchain/zipball/langchain-core==1.8.0",
-  "body": "**`langchain-core` 1.8.0 drops support for Python 3.10**, which has reached end-of-life. The minimum supported version is now Python 3.11. Users on Python 3.10 will continue to resolve `langchain-core` 1.7.x.\n\nChanges since langchain-core==1.7.7\n\nrelease(core): 1.8.0 (#41796)\nfeat(core): Remove EOL Python 3.10 support (#41267)\nfeat(core): add decision models (#41765)"
+  "tarball_url": "https://api.github.com/repos/langchain-ai/langchain/tarball/langchain-core==1.8.1",
+  "zipball_url": "https://api.github.com/repos/langchain-ai/langchain/zipball/langchain-core==1.8.1",
+  "body": "Changes since langchain-core==1.8.0\n\nrelease(core): 1.8.1 (#41855)\nchore(deps): bump soupsieve from 4.0 to 4.1 in /libs/core (#41850)\nfeat(core): per-context LangSmith gateway override via `langsmith_gateway` (#41836)\nchore(deps): bump soupsieve from 2.9 to 4.0 in /libs/core (#41833)"
 }
