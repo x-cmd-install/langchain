@@ -14,11 +14,11 @@ x install langchain
 
 ## Code insight
 
-Total: **374,586** lines of code across **2772** files in the top 5 languages.
+Total: **374,496** lines of code across **2772** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 363,451 | 13,632 | 56,251 | 2665 |
+| Python | 363,361 | 13,632 | 56,251 | 2665 |
 | Json | 5,484 | 0 | 0 | 42 |
 | Toml | 3,082 | 55 | 441 | 30 |
 | Makefile | 1,166 | 235 | 391 | 24 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 149,946 · **Forks**: 25,158 · **Open issues**: 10,666 · **Contributors**: 4,005
+- **Stars**: 149,987 · **Forks**: 25,145 · **Open issues**: 10,671 · **Contributors**: 4,005
 
 ## Totals (cumulative)
 
-- **Releases**: 1442 · **Merged PRs**: 17894 · **Open PRs**: 142 · **Closed issues**: 10051 · **Open issues**: 615 · **Commits**: 17256
+- **Releases**: 1442 · **Merged PRs**: 17895 · **Open PRs**: 165 · **Closed issues**: 10053 · **Open issues**: 618 · **Commits**: 17257
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 49 | 203 | 35 | 70 | 81 | 306 |
-| last60d | 2026-09-21 | 82 | 434 | 54 | 189 | 182 | 528 |
-| 90d | 2026-08-22 | 100 | 601 | 70 | 367 | 276 | 771 |
-| last180d | 2026-05-24 | 100 | 1183 | 105 | 731 | 387 | 1540 |
-| 360d | 2025-11-25 | 100 | 2459 | 139 | 1281 | 558 | 2916 |
-| last720d | 2024-11-30 | 100 | 5305 | 142 | 2162 | 615 | 5242 |
+| 30d | 2026-10-22 | 46 | 194 | 58 | 69 | 79 | 308 |
+| last60d | 2026-09-22 | 80 | 420 | 77 | 182 | 174 | 530 |
+| 90d | 2026-08-23 | 100 | 595 | 93 | 366 | 276 | 773 |
+| last180d | 2026-05-25 | 100 | 1183 | 128 | 732 | 389 | 1542 |
+| 360d | 2025-11-26 | 100 | 2460 | 162 | 1279 | 561 | 2918 |
+| last720d | 2024-12-01 | 100 | 5302 | 165 | 2163 | 618 | 5243 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for langchain lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T07:40:53Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:14:27Z._
