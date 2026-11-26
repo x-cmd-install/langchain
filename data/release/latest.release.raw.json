@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/langchain-ai/langchain/releases/452014274",
-  "assets_url": "https://api.github.com/repos/langchain-ai/langchain/releases/452014274/assets",
-  "upload_url": "https://uploads.github.com/repos/langchain-ai/langchain/releases/452014274/assets{?name,label}",
-  "html_url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.8.4",
-  "id": 452014274,
+  "url": "https://api.github.com/repos/langchain-ai/langchain/releases/458690245",
+  "assets_url": "https://api.github.com/repos/langchain-ai/langchain/releases/458690245/assets",
+  "upload_url": "https://uploads.github.com/repos/langchain-ai/langchain/releases/458690245/assets{?name,label}",
+  "html_url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.8.5",
+  "id": 458690245,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,22 +25,22 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOIPDwls4a8TDC",
-  "tag_name": "langchain-core==1.8.4",
-  "target_commitish": "d4dafe5839c4a6b07d71cc78697df0de9e627e21",
-  "name": "langchain-core==1.8.4",
+  "node_id": "RE_kwDOIPDwls4bVw7F",
+  "tag_name": "langchain-core==1.8.5",
+  "target_commitish": "a2d98c255a705e577019bd7b747c5073747e25b5",
+  "name": "langchain-core==1.8.5",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-19T22:26:32Z",
-  "updated_at": "2026-11-19T22:35:59Z",
-  "published_at": "2026-11-19T22:35:57Z",
+  "created_at": "2026-11-25T21:42:31Z",
+  "updated_at": "2026-11-25T21:52:41Z",
+  "published_at": "2026-11-25T21:52:39Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/langchain-ai/langchain/releases/assets/769529884",
-      "id": 769529884,
-      "node_id": "RA_kwDOIPDwls4t3hgc",
-      "name": "langchain_core-1.8.4-py3-none-any.whl",
+      "url": "https://api.github.com/repos/langchain-ai/langchain/releases/assets/793283939",
+      "id": 793283939,
+      "node_id": "RA_kwDOIPDwls4vSI1j",
+      "name": "langchain_core-1.8.5-py3-none-any.whl",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -65,18 +65,18 @@
       },
       "content_type": "raw",
       "state": "uploaded",
-      "size": 591065,
-      "digest": "sha256:5755dee8f8b0c709cd22436dea3689c74a3f6e9dc4251590797dcd66bcd1ef67",
-      "download_count": 44,
-      "created_at": "2026-11-19T22:35:59Z",
-      "updated_at": "2026-11-19T22:35:59Z",
-      "browser_download_url": "https://github.com/langchain-ai/langchain/releases/download/langchain-core%3D%3D1.8.4/langchain_core-1.8.4-py3-none-any.whl"
+      "size": 591373,
+      "digest": "sha256:4eb6ee72e5ef130ab0aef0d7dc3ea0f1ab8f974339c271c4c8a8b92f148fcfac",
+      "download_count": 7,
+      "created_at": "2026-11-25T21:52:41Z",
+      "updated_at": "2026-11-25T21:52:41Z",
+      "browser_download_url": "https://github.com/langchain-ai/langchain/releases/download/langchain-core%3D%3D1.8.5/langchain_core-1.8.5-py3-none-any.whl"
     },
     {
-      "url": "https://api.github.com/repos/langchain-ai/langchain/releases/assets/769529825",
-      "id": 769529825,
-      "node_id": "RA_kwDOIPDwls4t3hfh",
-      "name": "langchain_core-1.8.4.tar.gz",
+      "url": "https://api.github.com/repos/langchain-ai/langchain/releases/assets/793283875",
+      "id": 793283875,
+      "node_id": "RA_kwDOIPDwls4vSI0j",
+      "name": "langchain_core-1.8.5.tar.gz",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -101,15 +101,15 @@
       },
       "content_type": "raw",
       "state": "uploaded",
-      "size": 1025230,
-      "digest": "sha256:af8976d6df0b3338dc7c830ebf1c505c0fc05a0e3eb564f4901ed7546a418ab6",
-      "download_count": 37,
-      "created_at": "2026-11-19T22:35:58Z",
-      "updated_at": "2026-11-19T22:35:59Z",
-      "browser_download_url": "https://github.com/langchain-ai/langchain/releases/download/langchain-core%3D%3D1.8.4/langchain_core-1.8.4.tar.gz"
+      "size": 1026333,
+      "digest": "sha256:f0391367c1058ccec34dc248238415d8fccfa42db1727b937357888ff1da75cb",
+      "download_count": 8,
+      "created_at": "2026-11-25T21:52:40Z",
+      "updated_at": "2026-11-25T21:52:41Z",
+      "browser_download_url": "https://github.com/langchain-ai/langchain/releases/download/langchain-core%3D%3D1.8.5/langchain_core-1.8.5.tar.gz"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/langchain-ai/langchain/tarball/langchain-core==1.8.4",
-  "zipball_url": "https://api.github.com/repos/langchain-ai/langchain/zipball/langchain-core==1.8.4",
-  "body": "Changes since langchain-core==1.8.3\n\nrelease(core): 1.8.4 (#41964)\nfeat(core): standardize finish reason on message-finish events (#41926)\nfeat(langchain): tag synthetic HITL tool messages with source metadata (#41928)"
+  "tarball_url": "https://api.github.com/repos/langchain-ai/langchain/tarball/langchain-core==1.8.5",
+  "zipball_url": "https://api.github.com/repos/langchain-ai/langchain/zipball/langchain-core==1.8.5",
+  "body": "Changes since langchain-core==1.8.4\n\nrelease(core): 1.8.5 (#42103)\nfix(core): reuse provider message id on later stream chunks (#42050)\ndocs(core): clarify v3 runtime warning behavior (#42040)\ndocs(core): clarify supported streaming event APIs (#42038)\nrelease(standard-tests): 1.2.0 (#41996)\nrelease(text-splitters): 1.2.0 (#41998)\nchore(deps): bump mistune from 3.3.3 to 3.3.4 in /libs/core (#41968)"
 }
