@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 591373,
       "digest": "sha256:4eb6ee72e5ef130ab0aef0d7dc3ea0f1ab8f974339c271c4c8a8b92f148fcfac",
-      "download_count": 7,
+      "download_count": 10,
       "created_at": "2026-11-25T21:52:41Z",
       "updated_at": "2026-11-25T21:52:41Z",
       "browser_download_url": "https://github.com/langchain-ai/langchain/releases/download/langchain-core%3D%3D1.8.5/langchain_core-1.8.5-py3-none-any.whl"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1026333,
       "digest": "sha256:f0391367c1058ccec34dc248238415d8fccfa42db1727b937357888ff1da75cb",
-      "download_count": 8,
+      "download_count": 12,
       "created_at": "2026-11-25T21:52:40Z",
       "updated_at": "2026-11-25T21:52:41Z",
       "browser_download_url": "https://github.com/langchain-ai/langchain/releases/download/langchain-core%3D%3D1.8.5/langchain_core-1.8.5.tar.gz"
